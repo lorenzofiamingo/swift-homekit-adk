@@ -3,5 +3,5 @@ import XCTest
 import swift_homekit_adkTests
 
 var tests = [XCTestCaseEntry]()
-tests += swift_homekit_adkTests.allTests()
+tests += SwiftHomeKitADKTests.allTests()
 XCTMain(tests)

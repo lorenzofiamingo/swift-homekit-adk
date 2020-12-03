@@ -1,3 +1,3 @@
-struct swift_homekit_adk {
+struct SwiftHomeKitADK {
     var text = "Hello, World!"
 }
