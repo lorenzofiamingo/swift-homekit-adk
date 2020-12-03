@@ -1,12 +1,12 @@
 import XCTest
-@testable import SwiftHomeKitADK
+@testable import HomeKitADK
 
-final class SwiftHomeKitADKTests: XCTestCase {
+final class HomeKitADKTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SwiftHomeKitADK().text, "Hello, World!")
+        XCTAssertEqual(HomeKitADK().text, "Hello, World!")
     }
 
     static var allTests = [
